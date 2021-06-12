@@ -1,0 +1,15 @@
+Clonar un repositorio: $ git clone https://github.com/usuario/reporistorio.git
+
+Crear un nuevo repositorio local: $ git init
+
+Traer cambios que no tengas actualizados de la rama: $ git pull origin main o $ git pull origin <branch>
+
+Cambiar de rama: $ git checkout <branch>
+
+Agregar un archivo al commit: $ git add nombre.txt o $ git add . (agrega todos)
+
+Hacer un commit: $ git commit -m "mensaje"
+
+Hacer merge de una branch, parados desde la rama principal: $ git merge <branch> 
+
+Hacer push de un commit a la rama: $ git push origin <branch>
