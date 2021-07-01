@@ -1,0 +1,4 @@
+Desde la VM solo usando comandos descargamos GIT, clonamos el repositorio de la Mochila, creamos una rama con nuestro nombre y respondimos este cuestionario con nano para subirlo al repositorio luego. 
+Con apt-get podemos manejar paquetes, instalar o remover programas y sus paquetes solo con esa linea de comando. 
+Con SU podemos cambiar al super usuario o el usuario root. 
+Esta forma de conectarse a un equipo me resulto muy poco familiar, ya que siempre me maneje con interfaz grafica, que es lo mas comercial. 
